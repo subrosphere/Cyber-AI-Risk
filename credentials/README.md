@@ -1,0 +1,10 @@
+# Credentials
+
+This section contains certifications, learning paths, badges, and professional development milestones related to cybersecurity, AI security, governance, and technology risk.
+
+## Contents
+
+- Certifications
+- Learning Paths
+- Course Notes
+- Key Takeaways
