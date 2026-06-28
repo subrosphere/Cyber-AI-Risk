@@ -1,5 +1,4 @@
 # Cyber-AI-Risk
-Cyber and AI Risk. One control at a time.
 
 Risk governance doesn't change. Threats evolve. This portfolio documents my journey from traditional cybersecurity risk to the rapidly evolving field of AI security, AI risk, responsible AI governance and more. 
 
