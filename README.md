@@ -1,6 +1,8 @@
 # Cyber-AI-Risk
 
-Risk governance doesn't change. Threats evolve. This portfolio documents my journey from traditional cybersecurity risk to the rapidly evolving field of AI security, AI risk, responsible AI governance and more. 
+Risk governance doesn't change. Threats evolve. 
+
+This portfolio documents my journey from traditional cybersecurity risk to the rapidly evolving field of AI security, AI risk, responsible AI governance and more. 
 
 ## Repository Structure
 
