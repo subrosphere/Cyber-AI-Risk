@@ -29,7 +29,7 @@ Before we build or design anything, we need to understand:
 
 This is not technical. This is about clarity. 
 
-A governance professional's job starts here. Organizations need to understand what problem the AI system is supposed to solve because they will later verify that if it actually did, and that it doesn't create new problems in the process. 
+A governance professional's job starts here. Organizations need to understand what problem the AI system is supposed to solve because they will later verify that it actually did, and that it didn't create new problems in the process. 
 
 Example:
 A bank is losing money to fraud and decides to build an AI system to automatically catch fraudulent attempts and stop them. 
