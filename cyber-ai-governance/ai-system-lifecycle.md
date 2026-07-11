@@ -60,3 +60,69 @@ At the end of this stage, the organization should have:
 
 > An approved business case.
 
+### Stage 2: Data - What information does the AI system need to learn?
+
+Every AI system is only as good as the data it learns from. Before an AI system can make predictions or support decisions, it must first be provided with data that accurately represents the problem it is trying to solve.
+
+Think of an AI system as a new employee on their first day. It has no understanding of the business problem it has been asked to solve. It learns by identifying patterns in the examples it is given. If those examples are incomplete, inaccurate or biased, the decisions it makes are likely to reflect the same weaknesses.
+
+From a governance perspective, this is one of the most critical stages in the lifecycle. Poor-quality data can lead to poor-quality outcomes. Decisions made during this stage influence the accuracy, fairness, security and reliability of the AI system throughout its lifecycle.
+
+There are **three** critical phases in this journey - 
+
+#### i. Data Collection: Gather the data needed to train or support the AI system from relevant and reliable sources. 
+
+The organization should ask:
+
+- Where did this data come from?
+- Do we have permission to use it?
+- Is customer data being handled appropriately?
+- Who owns the data?
+
+#### ii. Data Preparation: Clean, organize, label and transform the data so it is suitable for use by the AI system.
+
+The organization should ask:
+
+- Has the data been cleaned consistently?
+- Were any records removed? If yes, why?
+- Is sensitive information protected?
+- Is there documentation showing how the data was prepared?
+
+#### iii. Data Validation: Verify the data to ensure it is suitable before using it to develop the AI system.
+
+The organization should ask:
+
+- Can this data be trusted?
+- Is it representative of the real world?
+- Has the data quality been formally reviewed?
+- Has someone formally approved the dataset for use? 
+
+Example:
+An email provider wants to reduce the number of spam emails reaching users' inboxes and decides to build an AI system to automatically identify spam.
+
+First, the organization _collects_ thousands of historical emails that have already been classified as either Spam or Not Spam. It then _prepares_ the data by removing duplicate emails, correcting inconsistencies and ensuring each email is labelled accurately. Finally, before the data is used to develop the AI system, it is _validated_ to confirm that it is accurate and approved for use. 
+
+Only after completing these three phases is the dataset considered ready for model development. 
+
+#### Key Outputs
+
+At the end of this stage, the organization should have:
+
+✓ Data collected from approved sources
+
+✓ Data prepared and documented
+
+✓ Data quality validated
+
+✓ Privacy and security requirements addressed
+
+✓ Approved dataset ready for model deployment
+
+#### What should exist before we move to the next stage?
+
+> An approved and validated dataset.
+
+
+
+
+
